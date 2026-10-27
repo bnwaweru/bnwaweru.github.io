@@ -1,0 +1,19 @@
+---
+title: "Example project"
+description: "One sentence on what this project did."
+date: 2025-03-01
+categories: [PhD, R]
+# image: cover.png   # put an image in this folder and uncomment
+---
+
+**The problem.** What question were you trying to answer, and why did it matter?
+
+**My role.** What did you personally do? Design, analysis, code, fieldwork, writing?
+
+**What I used.** Methods, tools and languages.
+
+**Outcome.** Paper, talk, dataset, software, or what you learned.
+
+**Links.** [Code](https://github.com/bnwaweru) · [Paper](#)
+
+<!-- To add a new project: copy this whole folder, rename it, and edit this file. -->

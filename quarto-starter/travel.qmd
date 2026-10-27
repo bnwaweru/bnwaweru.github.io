@@ -1,0 +1,30 @@
+---
+title: "Places I've worked and presented"
+---
+
+Conferences, fieldwork and research visits during my PhD. Click a pin for details.
+
+```{r}
+#| echo: false
+#| message: false
+library(leaflet)
+
+# Edit this table: one row per place. Find coordinates by right-clicking
+# a spot in Google Maps or OpenStreetMap.
+places <- data.frame(
+  name  = c("Example Conference 2024", "Example Workshop 2023", "Example Field Site"),
+  place = c("Lisbon, Portugal",        "Cape Town, South Africa", "Nairobi, Kenya"),
+  year  = c(2024, 2023, 2022),
+  type  = c("Conference", "Workshop", "Fieldwork"),
+  lat   = c(38.7223, -33.9249, -1.2921),
+  lng   = c(-9.1393,  18.4241, 36.8219)
+)
+
+leaflet(places) |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  addCircleMarkers(
+    lng = ~lng, lat = ~lat,
+    radius = 7, stroke = FALSE, fillOpacity = 0.85,
+    popup = ~paste0("<b>", name, "</b><br>", place, "<br>", type, ", ", year)
+  )
+```

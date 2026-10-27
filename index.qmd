@@ -1,0 +1,34 @@
+---
+title: "Bernice N. Waweru"
+image: images/BNWaweruMarch2026ProfilePhoto_crpd.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/bnwaweru
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bnwaweru
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=0gQJ85YAAAAJ&hl=en
+---
+
+## Bio
+
+I’m a plant geneticist and bioinformatician working on disease resistance in wheat. For my PhD at the John Innes Centre and University of East Anglia, I developed *k*-mer and multi-reference genome methods to find and track resistance genes that standard reference genomes miss, particularly those carried by landraces and wild relatives. Applying these methods to the *Yr47* yellow rust resistance locus from a Watkins landrace that remains resistant to newly emerged *Yr15*-virulent rust strains, I narrowed down candidate genes and developed diagnostic markers for breeders.
+
+My work spans the field and the command line. Before my PhD, I spent seven years at KALRO in Kenya on wheat breeding and international rust screening, then worked as a bioinformatician at the BecA-ILRI Hub, contributing to genome assemblies for African orphan crops. I build reproducible analysis pipelines in Python, R and Nextflow on HPC, and gained industry breeding experience through PhD CASE placements at Limagrain and BASF.
+
+I’m looking for roles where I can bring together genomics, genetics and breeding to address practical challenges in crop improvement and food security.
+
+
+## Education
+
+**PhD, Biological Sciences** · John Innes Centre / University of East Anglia, United Kingdom · 2022–2026
+
+**MSc, Plant Breeding and Biotechnology** · University of Eldoret, Kenya · 2014-2018
+
+**BSc, Biomedical Sciences and Technology** · Egerton University, Kenya · 2006-2010

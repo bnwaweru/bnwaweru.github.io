@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "conferences/2024-example-conference.html",
+    "href": "conferences/2024-example-conference.html",
+    "title": "Example Conference 2024",
+    "section": "",
+    "text": "A few sentences on what you presented, what you learned, and who you met."
+  },
+  {
+    "objectID": "quarto-starter/publications.html",
+    "href": "quarto-starter/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name (2026). Thesis title. PhD thesis, [University]."
+  },
+  {
+    "objectID": "quarto-starter/publications.html#thesis",
+    "href": "quarto-starter/publications.html#thesis",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name (2026). Thesis title. PhD thesis, [University]."
+  },
+  {
+    "objectID": "quarto-starter/publications.html#papers",
+    "href": "quarto-starter/publications.html#papers",
+    "title": "Publications",
+    "section": "Papers",
+    "text": "Papers\nYour Name, Co-author, Co-author (2025). Paper title. Journal. doi:10.xxxx/xxxxx\nCo-author, Your Name (2024). Paper title. Journal. doi:10.xxxx/xxxxx"
+  },
+  {
+    "objectID": "quarto-starter/publications.html#preprints-in-preparation",
+    "href": "quarto-starter/publications.html#preprints-in-preparation",
+    "title": "Publications",
+    "section": "Preprints & in preparation",
+    "text": "Preprints & in preparation\nYour Name, Co-author (in prep). Working title."
+  },
+  {
+    "objectID": "quarto-starter/travel.html",
+    "href": "quarto-starter/travel.html",
+    "title": "Places I’ve worked and presented",
+    "section": "",
+    "text": "Conferences, fieldwork and research visits during my PhD. Click a pin for details."
+  },
+  {
+    "objectID": "quarto-starter/journey.html",
+    "href": "quarto-starter/journey.html",
+    "title": "How my work has evolved",
+    "section": "",
+    "text": "A short timeline of how my interests and skills developed. Keep each year to a few sentences: what you were working on, and what you picked up.\n\n\n2026\nSubmitted my PhD thesis. [What you’re moving towards next.]\n\n\n2025\n[Main project this year.] Learned [skill or method].\n\n\n2024\n[Main project.] First international conference talk at [conference].\n\n\n2023\n[What shifted: a new method, collaboration, or question.]\n\n\n2022\nStarted my PhD at [university], working on [topic]."
+  },
+  {
+    "objectID": "quarto-starter/projects/example-project/index.html",
+    "href": "quarto-starter/projects/example-project/index.html",
+    "title": "Example project",
+    "section": "",
+    "text": "The problem. What question were you trying to answer, and why did it matter?\nMy role. What did you personally do? Design, analysis, code, fieldwork, writing?\nWhat I used. Methods, tools and languages.\nOutcome. Paper, talk, dataset, software, or what you learned.\nLinks. Code · Paper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bernice N. Waweru",
+    "section": "",
+    "text": "I’m a plant geneticist and bioinformatician working on disease resistance in wheat. For my PhD at the John Innes Centre and University of East Anglia, I developed k-mer and multi-reference genome methods to find and track resistance genes that standard reference genomes miss, particularly those carried by landraces and wild relatives. Applying these methods to the Yr47 yellow rust resistance locus from a Watkins landrace that remains resistant to newly emerged Yr15-virulent rust strains, I narrowed down candidate genes and developed diagnostic markers for breeders.\nMy work spans the field and the command line. Before my PhD, I spent seven years at KALRO in Kenya on wheat breeding and international rust screening, then worked as a bioinformatician at the BecA-ILRI Hub, contributing to genome assemblies for African orphan crops. I build reproducible analysis pipelines in Python, R and Nextflow on HPC, and gained industry breeding experience through PhD CASE placements at Limagrain and BASF.\nI’m looking for roles where I can bring together genomics, genetics and breeding to address practical challenges in crop improvement and food security."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Bernice N. Waweru",
+    "section": "",
+    "text": "I’m a plant geneticist and bioinformatician working on disease resistance in wheat. For my PhD at the John Innes Centre and University of East Anglia, I developed k-mer and multi-reference genome methods to find and track resistance genes that standard reference genomes miss, particularly those carried by landraces and wild relatives. Applying these methods to the Yr47 yellow rust resistance locus from a Watkins landrace that remains resistant to newly emerged Yr15-virulent rust strains, I narrowed down candidate genes and developed diagnostic markers for breeders.\nMy work spans the field and the command line. Before my PhD, I spent seven years at KALRO in Kenya on wheat breeding and international rust screening, then worked as a bioinformatician at the BecA-ILRI Hub, contributing to genome assemblies for African orphan crops. I build reproducible analysis pipelines in Python, R and Nextflow on HPC, and gained industry breeding experience through PhD CASE placements at Limagrain and BASF.\nI’m looking for roles where I can bring together genomics, genetics and breeding to address practical challenges in crop improvement and food security."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Bernice N. Waweru",
+    "section": "Interests",
+    "text": "Interests\n[Interest one], [interest two], [interest three]"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bernice N. Waweru",
+    "section": "Education",
+    "text": "Education\nPhD, Biological Sciences · John Innes Centre / University of East Anglia, United Kingdom · 2022–2026\nMSc, Plant Breeding and Biotechnology · University of Eldoret, Kenya · 2014-2018\nBSc, Biomedical Sciences and Technology · Egerton University, Kenya · 2006-2010"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Work from my PhD and beyond. Each card links to a short write-up.\n\n\n\n\n\n\n\n\n\n\n\n\nExample project\n\n\n\nPhD\n\nR\n\n\n\nOne sentence on what this project did.\n\n\n\n\n\n\n\n\n\n\nExample project\n\n\n\nPhD\n\nR\n\n\n\nOne sentence on what this project did.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences & talks",
+    "section": "",
+    "text": "Example Conference 2024\n\n\nCity, Country\n\n\n\nPoster\n\n\n\nPresented a poster on [topic].\n\n\n\n\n\nJune 2024\n\n\n\n\n\n\n\nExample Conference 2024\n\n\nCity, Country\n\n\n\nPoster\n\n\n\nPresented a poster on [topic].\n\n\n\n\n\nJune 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/example-project/index.html",
+    "href": "projects/example-project/index.html",
+    "title": "Example project",
+    "section": "",
+    "text": "The problem. What question were you trying to answer, and why did it matter?\nMy role. What did you personally do? Design, analysis, code, fieldwork, writing?\nWhat I used. Methods, tools and languages.\nOutcome. Paper, talk, dataset, software, or what you learned.\nLinks. Code · Paper"
+  },
+  {
+    "objectID": "journey.html",
+    "href": "journey.html",
+    "title": "How my work has evolved",
+    "section": "",
+    "text": "A short timeline of how my interests and skills developed. Keep each year to a few sentences: what you were working on, and what you picked up.\n\n\n2026\nSubmitted my PhD thesis. [What you’re moving towards next.]\n\n\n2025\n[Main project this year.] Learned [skill or method].\n\n\n2024\n[Main project.] First international conference talk at [conference].\n\n\n2023\n[What shifted: a new method, collaboration, or question.]\n\n\n2022\nStarted my PhD at [university], working on [topic]."
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Places I’ve worked and presented",
+    "section": "",
+    "text": "Conferences, fieldwork and research visits during my PhD. Click a pin for details."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name (2026). Thesis title. PhD thesis, [University]."
+  },
+  {
+    "objectID": "publications.html#thesis",
+    "href": "publications.html#thesis",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name (2026). Thesis title. PhD thesis, [University]."
+  },
+  {
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
+    "title": "Publications",
+    "section": "Papers",
+    "text": "Papers\nYour Name, Co-author, Co-author (2025). Paper title. Journal. doi:10.xxxx/xxxxx\nCo-author, Your Name (2024). Paper title. Journal. doi:10.xxxx/xxxxx"
+  },
+  {
+    "objectID": "publications.html#preprints-in-preparation",
+    "href": "publications.html#preprints-in-preparation",
+    "title": "Publications",
+    "section": "Preprints & in preparation",
+    "text": "Preprints & in preparation\nYour Name, Co-author (in prep). Working title."
+  },
+  {
+    "objectID": "quarto-starter/conferences.html",
+    "href": "quarto-starter/conferences.html",
+    "title": "Conferences & talks",
+    "section": "",
+    "text": "Example Conference 2024\n\n\nCity, Country\n\n\n\nPoster\n\n\n\nPresented a poster on [topic].\n\n\n\n\n\nJune 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "quarto-starter/projects.html",
+    "href": "quarto-starter/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Work from my PhD and beyond. Each card links to a short write-up.\n\n\n\n\n\n\n\n\n\n\n\n\nExample project\n\n\n\nPhD\n\nR\n\n\n\nOne sentence on what this project did.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "quarto-starter/index.html",
+    "href": "quarto-starter/index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "I recently submitted my PhD thesis on [your topic] at [your university]. My research focused on [one sentence on the question you worked on and why it matters].\nAcross the PhD I worked with [main methods/tools, e.g. R, Python, Bash, HPC pipelines] and [the kinds of data or systems you worked with].\nI’m now looking for roles in [the area you want to move into]."
+  },
+  {
+    "objectID": "quarto-starter/index.html#bio",
+    "href": "quarto-starter/index.html#bio",
+    "title": "Your Name",
+    "section": "",
+    "text": "I recently submitted my PhD thesis on [your topic] at [your university]. My research focused on [one sentence on the question you worked on and why it matters].\nAcross the PhD I worked with [main methods/tools, e.g. R, Python, Bash, HPC pipelines] and [the kinds of data or systems you worked with].\nI’m now looking for roles in [the area you want to move into]."
+  },
+  {
+    "objectID": "quarto-starter/index.html#interests",
+    "href": "quarto-starter/index.html#interests",
+    "title": "Your Name",
+    "section": "Interests",
+    "text": "Interests\n[Interest one], [interest two], [interest three]"
+  },
+  {
+    "objectID": "quarto-starter/index.html#education",
+    "href": "quarto-starter/index.html#education",
+    "title": "Your Name",
+    "section": "Education",
+    "text": "Education\nPhD, [Field] · [University] · 20XX–2026\nMSc / BSc, [Field] · [University] · 20XX"
+  },
+  {
+    "objectID": "quarto-starter/conferences/2024-example-conference.html",
+    "href": "quarto-starter/conferences/2024-example-conference.html",
+    "title": "Example Conference 2024",
+    "section": "",
+    "text": "A few sentences on what you presented, what you learned, and who you met."
+  }
+]

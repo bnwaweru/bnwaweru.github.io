@@ -1,0 +1,25 @@
+---
+title: "How my work has evolved"
+---
+
+A short timeline of how my interests and skills developed. Keep each year to a
+few sentences: what you were working on, and what you picked up.
+
+::: {.timeline}
+
+### 2026
+Submitted my PhD thesis. [What you're moving towards next.]
+
+### 2025
+[Main project this year.] Learned [skill or method].
+
+### 2024
+[Main project.] First international conference talk at [conference].
+
+### 2023
+[What shifted: a new method, collaboration, or question.]
+
+### 2022
+Started my PhD at [university], working on [topic].
+
+:::

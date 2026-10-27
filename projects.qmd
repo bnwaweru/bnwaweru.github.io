@@ -1,0 +1,11 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [image, title, description, categories]
+---
+
+Work from my PhD and beyond. Each card links to a short write-up.

@@ -1,0 +1,10 @@
+---
+title: "Conferences & talks"
+listing:
+  contents: conferences
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [date, title, subtitle, description, categories]
+  date-format: "MMMM YYYY"
+---

@@ -1,0 +1,37 @@
+---
+title: "Your Name"
+image: images/profile.png
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/bnwaweru
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/your-profile
+    - icon: envelope
+      text: Email
+      href: mailto:you@example.com
+---
+
+## Bio
+
+I recently submitted my PhD thesis on [your topic] at [your university]. My research
+focused on [one sentence on the question you worked on and why it matters].
+
+Across the PhD I worked with [main methods/tools, e.g. R, Python, Bash, HPC pipelines]
+and [the kinds of data or systems you worked with].
+
+I'm now looking for roles in [the area you want to move into].
+
+## Interests
+
+[Interest one], [interest two], [interest three]
+
+## Education
+
+**PhD, [Field]** · [University] · 20XX–2026
+
+**MSc / BSc, [Field]** · [University] · 20XX

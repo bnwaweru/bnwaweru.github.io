@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/example-project/index.html",
+      "/quarto-starter/projects/example-project/index.html"
+    ]
+  },
+  {
+    "listing": "/conferences.html",
+    "items": [
+      "/quarto-starter/conferences/2024-example-conference.html",
+      "/conferences/2024-example-conference.html"
+    ]
+  },
+  {
+    "listing": "/quarto-starter/conferences.html",
+    "items": [
+      "/quarto-starter/conferences/2024-example-conference.html"
+    ]
+  },
+  {
+    "listing": "/quarto-starter/projects.html",
+    "items": [
+      "/quarto-starter/projects/example-project/index.html"
+    ]
+  }
+]

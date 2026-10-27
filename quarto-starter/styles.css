@@ -1,0 +1,20 @@
+/* Journey page timeline: a line down the left with a dot per year */
+.timeline {
+  border-left: 2px solid var(--bs-border-color);
+  padding-left: 1.5rem;
+  margin-left: 0.5rem;
+}
+.timeline h3 {
+  position: relative;
+  margin-top: 2rem;
+}
+.timeline h3::before {
+  content: "";
+  position: absolute;
+  left: calc(-1.5rem - 7px);
+  top: 0.45em;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--bs-primary);
+}

@@ -1,0 +1,12 @@
+---
+title: "Example Conference 2024"
+subtitle: "City, Country"
+date: 2024-06-12
+categories: [Poster]
+description: "Presented a poster on [topic]."
+---
+
+A few sentences on what you presented, what you learned, and who you met.
+
+<!-- One file per conference. Name files YYYY-short-name.qmd so they stay in order.
+     Use categories like [Talk], [Poster], [Workshop], [Attended]. -->

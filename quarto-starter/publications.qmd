@@ -1,0 +1,17 @@
+---
+title: "Publications"
+---
+
+## Thesis
+
+**Your Name** (2026). *Thesis title*. PhD thesis, [University].
+
+## Papers
+
+**Your Name**, Co-author, Co-author (2025). Paper title. *Journal*. [doi:10.xxxx/xxxxx](#)
+
+Co-author, **Your Name** (2024). Paper title. *Journal*. [doi:10.xxxx/xxxxx](#)
+
+## Preprints & in preparation
+
+**Your Name**, Co-author (in prep). Working title.
